@@ -1,0 +1,6 @@
+﻿_backup-*/
+__pycache__/
+*.pyc
+overnight-check-*.txt
+.DS_Store
+Thumbs.db

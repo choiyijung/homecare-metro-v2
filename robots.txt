@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Sitemap URL은 최종 도메인 확정 후 추가

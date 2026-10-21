@@ -1,0 +1,389 @@
+{
+  "서울": {
+    "slug": "seoul",
+    "children": {
+      "종로구": {
+        "slug": "jongno-gu",
+        "children": {}
+      },
+      "중구": {
+        "slug": "jung-gu",
+        "children": {}
+      },
+      "용산구": {
+        "slug": "yongsan-gu",
+        "children": {}
+      },
+      "성동구": {
+        "slug": "seongdong-gu",
+        "children": {}
+      },
+      "광진구": {
+        "slug": "gwangjin-gu",
+        "children": {}
+      },
+      "동대문구": {
+        "slug": "dongdaemun-gu",
+        "children": {}
+      },
+      "중랑구": {
+        "slug": "jungnang-gu",
+        "children": {}
+      },
+      "성북구": {
+        "slug": "seongbuk-gu",
+        "children": {}
+      },
+      "강북구": {
+        "slug": "gangbuk-gu",
+        "children": {}
+      },
+      "도봉구": {
+        "slug": "dobong-gu",
+        "children": {}
+      },
+      "노원구": {
+        "slug": "nowon-gu",
+        "children": {}
+      },
+      "은평구": {
+        "slug": "eunpyeong-gu",
+        "children": {}
+      },
+      "서대문구": {
+        "slug": "seodaemun-gu",
+        "children": {}
+      },
+      "마포구": {
+        "slug": "mapo-gu",
+        "children": {}
+      },
+      "양천구": {
+        "slug": "yangcheon-gu",
+        "children": {}
+      },
+      "강서구": {
+        "slug": "gangseo-gu",
+        "children": {}
+      },
+      "구로구": {
+        "slug": "guro-gu",
+        "children": {}
+      },
+      "금천구": {
+        "slug": "geumcheon-gu",
+        "children": {}
+      },
+      "영등포구": {
+        "slug": "yeongdeungpo-gu",
+        "children": {}
+      },
+      "동작구": {
+        "slug": "dongjak-gu",
+        "children": {}
+      },
+      "관악구": {
+        "slug": "gwanak-gu",
+        "children": {}
+      },
+      "서초구": {
+        "slug": "seocho-gu",
+        "children": {}
+      },
+      "강남구": {
+        "slug": "gangnam-gu",
+        "children": {}
+      },
+      "송파구": {
+        "slug": "songpa-gu",
+        "children": {}
+      },
+      "강동구": {
+        "slug": "gangdong-gu",
+        "children": {}
+      }
+    }
+  },
+  "경기": {
+    "slug": "gyeonggi",
+    "children": {
+      "가평군": {
+        "slug": "gapyeong",
+        "children": {}
+      },
+      "과천시": {
+        "slug": "gwacheon",
+        "children": {}
+      },
+      "광명시": {
+        "slug": "gwangmyeong",
+        "children": {}
+      },
+      "광주시": {
+        "slug": "gwangju",
+        "children": {}
+      },
+      "구리시": {
+        "slug": "guri",
+        "children": {}
+      },
+      "군포시": {
+        "slug": "gunpo",
+        "children": {}
+      },
+      "김포시": {
+        "slug": "gimpo",
+        "children": {}
+      },
+      "고양시": {
+        "slug": "goyang",
+        "children": {
+          "덕양구": {
+            "slug": "deogyang-gu",
+            "children": {}
+          },
+          "일산동구": {
+            "slug": "ilsandong-gu",
+            "children": {}
+          },
+          "일산서구": {
+            "slug": "ilsanseo-gu",
+            "children": {}
+          }
+        }
+      },
+      "남양주시": {
+        "slug": "namyangju",
+        "children": {}
+      },
+      "동두천시": {
+        "slug": "dongducheon",
+        "children": {}
+      },
+      "부천시": {
+        "slug": "bucheon",
+        "children": {
+          "원미구": {
+            "slug": "wonmi-gu",
+            "children": {}
+          },
+          "소사구": {
+            "slug": "sosa-gu",
+            "children": {}
+          },
+          "오정구": {
+            "slug": "ojeong-gu",
+            "children": {}
+          }
+        }
+      },
+      "성남시": {
+        "slug": "seongnam",
+        "children": {
+          "수정구": {
+            "slug": "sujeong-gu",
+            "children": {}
+          },
+          "중원구": {
+            "slug": "jungwon-gu",
+            "children": {}
+          },
+          "분당구": {
+            "slug": "bundang-gu",
+            "children": {}
+          }
+        }
+      },
+      "수원시": {
+        "slug": "suwon",
+        "children": {
+          "권선구": {
+            "slug": "gwonseon-gu",
+            "children": {}
+          },
+          "영통구": {
+            "slug": "yeongtong-gu",
+            "children": {}
+          },
+          "장안구": {
+            "slug": "jangan-gu",
+            "children": {}
+          },
+          "팔달구": {
+            "slug": "paldal-gu",
+            "children": {}
+          }
+        }
+      },
+      "시흥시": {
+        "slug": "siheung",
+        "children": {}
+      },
+      "안산시": {
+        "slug": "ansan",
+        "children": {
+          "단원구": {
+            "slug": "danwon-gu",
+            "children": {}
+          },
+          "상록구": {
+            "slug": "sangnok-gu",
+            "children": {}
+          }
+        }
+      },
+      "안성시": {
+        "slug": "anseong",
+        "children": {}
+      },
+      "안양시": {
+        "slug": "anyang",
+        "children": {
+          "동안구": {
+            "slug": "dongan-gu",
+            "children": {}
+          },
+          "만안구": {
+            "slug": "manan-gu",
+            "children": {}
+          }
+        }
+      },
+      "양주시": {
+        "slug": "yangju",
+        "children": {}
+      },
+      "양평군": {
+        "slug": "yangpyeong",
+        "children": {}
+      },
+      "여주시": {
+        "slug": "yeoju",
+        "children": {}
+      },
+      "연천군": {
+        "slug": "yeoncheon",
+        "children": {}
+      },
+      "오산시": {
+        "slug": "osan",
+        "children": {}
+      },
+      "용인시": {
+        "slug": "yongin",
+        "children": {
+          "기흥구": {
+            "slug": "giheung-gu",
+            "children": {}
+          },
+          "수지구": {
+            "slug": "suji-gu",
+            "children": {}
+          },
+          "처인구": {
+            "slug": "cheoin-gu",
+            "children": {}
+          }
+        }
+      },
+      "의왕시": {
+        "slug": "uiwang",
+        "children": {}
+      },
+      "의정부시": {
+        "slug": "uijeongbu",
+        "children": {}
+      },
+      "이천시": {
+        "slug": "icheon",
+        "children": {}
+      },
+      "파주시": {
+        "slug": "paju",
+        "children": {}
+      },
+      "평택시": {
+        "slug": "pyeongtaek",
+        "children": {}
+      },
+      "포천시": {
+        "slug": "pocheon",
+        "children": {}
+      },
+      "하남시": {
+        "slug": "hanam",
+        "children": {}
+      },
+      "화성시": {
+        "slug": "hwaseong",
+        "children": {
+          "만세구": {
+            "slug": "manse-gu",
+            "children": {}
+          },
+          "효행구": {
+            "slug": "hyohaeng-gu",
+            "children": {}
+          },
+          "병점구": {
+            "slug": "byeongjeom-gu",
+            "children": {}
+          },
+          "동탄구": {
+            "slug": "dongtan-gu",
+            "children": {}
+          }
+        }
+      }
+    }
+  },
+  "인천": {
+    "slug": "incheon",
+    "children": {
+      "강화군": {
+        "slug": "ganghwa",
+        "children": {}
+      },
+      "옹진군": {
+        "slug": "ongjin",
+        "children": {}
+      },
+      "제물포구": {
+        "slug": "jemulpo-gu",
+        "children": {}
+      },
+      "영종구": {
+        "slug": "yeongjong-gu",
+        "children": {}
+      },
+      "미추홀구": {
+        "slug": "michuhol-gu",
+        "children": {}
+      },
+      "연수구": {
+        "slug": "yeonsu-gu",
+        "children": {}
+      },
+      "남동구": {
+        "slug": "namdong-gu",
+        "children": {}
+      },
+      "부평구": {
+        "slug": "bupyeong-gu",
+        "children": {}
+      },
+      "계양구": {
+        "slug": "gyeyang-gu",
+        "children": {}
+      },
+      "서해구": {
+        "slug": "seohae-gu",
+        "children": {}
+      },
+      "검단구": {
+        "slug": "geomdan-gu",
+        "children": {}
+      }
+    }
+  }
+}

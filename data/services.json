@@ -1,0 +1,80 @@
+[
+  {
+    "slug": "move-in-cleaning",
+    "name": "입주청소",
+    "group": "청소",
+    "short": "입주·이사 전 공간 상태에 맞춘 청소 안내"
+  },
+  {
+    "slug": "aircon-repair",
+    "name": "에어컨수리",
+    "group": "에어컨",
+    "short": "냉방 불량·작동 이상·소음 등 점검 안내"
+  },
+  {
+    "slug": "aircon-install",
+    "name": "에어컨설치",
+    "group": "에어컨",
+    "short": "신규 설치·이전 설치 환경 확인 안내"
+  },
+  {
+    "slug": "aircon-cleaning",
+    "name": "에어컨청소",
+    "group": "에어컨",
+    "short": "필터·내부 오염과 세척 범위 안내"
+  },
+  {
+    "slug": "used-aircon-buy",
+    "name": "중고에어컨매입",
+    "group": "에어컨",
+    "short": "제품 연식·상태·철거 조건을 확인하는 매입 안내"
+  },
+  {
+    "slug": "leak-detection",
+    "name": "누수탐지",
+    "group": "누수",
+    "short": "발생 위치와 배관 조건을 확인하는 누수 점검 안내"
+  },
+  {
+    "slug": "wall-leak",
+    "name": "벽누수",
+    "group": "누수",
+    "short": "벽지 들뜸·습기·물자국 등 벽면 누수 안내"
+  },
+  {
+    "slug": "boiler-leak",
+    "name": "보일러누수",
+    "group": "누수",
+    "short": "보일러·난방배관 주변 누수 점검 안내"
+  },
+  {
+    "slug": "bathroom-leak",
+    "name": "화장실누수",
+    "group": "누수",
+    "short": "욕실 바닥·벽·배관 주변 누수 점검 안내"
+  },
+  {
+    "slug": "drain-clog",
+    "name": "하수구막힘",
+    "group": "배수",
+    "short": "주방·욕실·세탁실 배수 불량과 막힘 안내"
+  },
+  {
+    "slug": "toilet-clog",
+    "name": "변기막힘",
+    "group": "배수",
+    "short": "변기 배수 지연·역류·막힘 증상 안내"
+  },
+  {
+    "slug": "sink-clog",
+    "name": "세면대막힘",
+    "group": "배수",
+    "short": "세면대 배수 지연과 트랩·배관 점검 안내"
+  },
+  {
+    "slug": "commercial-hood-cleaning",
+    "name": "업소용주방후드청소",
+    "group": "환기",
+    "short": "업소용 후드·덕트 기름때와 배기 상태 청소 안내"
+  }
+]
