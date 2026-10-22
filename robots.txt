@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-# Sitemap URL은 최종 도메인 확정 후 추가
+
+Sitemap: https://homecare-metro.netlify.app/sitemap.xml
